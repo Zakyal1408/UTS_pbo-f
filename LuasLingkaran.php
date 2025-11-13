@@ -21,7 +21,7 @@ class LuasLingkaran {
 
     public function __destruct() {
         echo "<br/>";
-        echo "udah ah cape";
+        echo "udah ah capeee";
     }
 }
 
